@@ -11,6 +11,8 @@ Install using pip:
 
     $ pip install apiblueprint-codec
 
+**Currently a placeholder. Does not yet include an API Blueprint Codec.**
+
 
 [travis-image]: https://secure.travis-ci.org/encode/apiblueprint-codec.svg?branch=master
 [travis]: http://travis-ci.org/encode/apiblueprint-codec?branch=master
