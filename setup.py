@@ -54,7 +54,7 @@ if sys.argv[-1] == 'publish':
 setup(
     name='apiblueprint-codec',
     version=version,
-    url='http://github.com/encode/apiblueprint-codec/',
+    url='http://github.com/core-api/python-apiblueprint-codec/',
     license='BSD',
     description='An API Blueprint codec for Core API.',
     author='Tom Christie',

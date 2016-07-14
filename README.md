@@ -14,7 +14,7 @@ Install using pip:
 **Currently a placeholder. Does not yet include an API Blueprint Codec.**
 
 
-[travis-image]: https://secure.travis-ci.org/encode/apiblueprint-codec.svg?branch=master
-[travis]: http://travis-ci.org/encode/apiblueprint-codec?branch=master
+[travis-image]: https://secure.travis-ci.org/core-api/python-apiblueprint-codec.svg?branch=master
+[travis]: http://travis-ci.org/core-api/python-apiblueprint-codec?branch=master
 [pypi-image]: https://img.shields.io/pypi/v/apiblueprint-codec.svg
 [pypi]: https://pypi.python.org/pypi/apiblueprint-codec
